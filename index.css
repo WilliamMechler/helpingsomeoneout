@@ -6,6 +6,9 @@
 #team{
  background-color: #0000FF; 
 }
+.teamr{
+ flaot: left; 
+}
 .cimgl{
   border-radius: 50%;
   border: 5px solid whitesmoke;
