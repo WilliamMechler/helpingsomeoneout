@@ -3,3 +3,24 @@
   text-align: center;
   background-color: #d3d3d3;
 }
+.cimgl{
+  border-radius: 50%;
+  border: 5px solid whitesmoke;
+  height:20%;
+  width: 20%;
+  float: left;
+}
+.cimgr{
+  border-radius: 50%;
+  border: 5px solid whitesmoke;
+  height:20%;
+  width: 20%;
+  float: right;
+}
+.cimgc{
+  border-radius: 50%;
+  border: 5px solid whitesmoke;
+  height:20%;
+  width: 20%;
+  float: center;
+}
