@@ -24,3 +24,9 @@
   width: 20%;
   float: center;
 }
+
+#header{
+   text-align: center;
+   color: honeydew;
+   background-color: firebrick;
+}
