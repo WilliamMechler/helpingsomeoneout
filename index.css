@@ -3,6 +3,9 @@
   text-align: center;
   background-color: #d3d3d3;
 }
+#team{
+ background-color: #0000FF; 
+}
 .cimgl{
   border-radius: 50%;
   border: 5px solid whitesmoke;
